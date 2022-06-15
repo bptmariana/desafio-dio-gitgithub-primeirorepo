@@ -1,2 +1,3 @@
-# desafio-dio-gitgithub-primeirorepo
-Primeiro desafio/projeto - Git/GitHub.
+# Desafio - Primeiro respositório para Projeto DIO sobre Git/GitHub
+
+Projeto de desafio - Git/GitHub.
